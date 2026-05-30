@@ -1,7 +1,7 @@
-🧬 CRISPR-Cas9 In-Silico Analysis
+🧬 **CRISPR-Cas9 In-Silico Analysis**
 A beginner-level bioinformatics project that computationally simulates the CRISPR-Cas9 gene editing mechanism using Python. This project was developed as part of a mini research report exploring how guide RNA (sgRNA) is designed, how it binds to a target DNA sequence, and how GC content influences editing efficiency.
 
-🔬 What This Project Does
+🔬 **What This Project Does**
 Given a target DNA sequence, the script:
 
 1.Generates the complementary DNA strand using Watson-Crick base pairing (A↔T, G↔C)
@@ -10,7 +10,7 @@ Given a target DNA sequence, the script:
 4.Calculates GC content — a key indicator of guide RNA stability and editing efficiency
 
 
-🧪 Sample Input & Output
+🧪 **Sample Input & Output**
 Input DNA:
 ATGCGTACGTTAGCTAGCTAGGCTA
 Output:
@@ -29,7 +29,7 @@ Guide RNA partially matched target region.
 
 GC Content: 48.00%
 
-▶️ How to Run
+▶️ **How to Run**
 1. Clone the repository
 bashgit clone https://github.com/Karthiga-M-CSE/IN-SILICO-ANALYSIS-OF-CRISPR-Cas9-GENE-EDITING-MECHANISM.git
 cd crispr-cas9-insilico-analysis
@@ -38,7 +38,7 @@ bashpip install -r requirements.txt
 3. Run the script
 bashpython crispr_analysis.py
 
-🛠️ Requirements
+🛠️ **Requirements**
 
 Python 3.x
 Biopython (optional — script uses pure Python logic)
@@ -48,6 +48,3 @@ bashpip install biopython
 Or use the included requirements.txt:
 bashpip install -r requirements.txt
 
-
-📬 Author
-Developed as a mini research project in Computational Bioinformatics.
