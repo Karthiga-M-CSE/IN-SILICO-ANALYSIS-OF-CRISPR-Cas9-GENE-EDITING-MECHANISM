@@ -1,0 +1,15 @@
+
+=== CRISPR-Cas9 In-Silico Analysis ===
+
+Original DNA Sequence:
+ATGCGTACGTTAGCTAGCTAGGCTA
+
+Complementary DNA Sequence:
+TACGCATGCAATCGATCGATCCGAT
+
+Guide RNA Sequence:
+UACGCAUGCAAUCGAUCGAUCCGAU
+
+Guide RNA partially matched target region.
+
+GC Content: 48.00%
